@@ -1,0 +1,146 @@
+body{
+    background-color: #E9EDEE;
+}
+
+
+#firstheader{
+   background-color: #222F3F;
+   height: 55px;
+}
+
+#secondheader{
+    background-color: #364759;
+    height: 25px;
+}
+
+#logo{
+    width: 120px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+   
+}
+    
+.ancora{
+    padding: 10px;
+}
+
+#all{
+    margin-left: 15px;
+}
+
+#orange{
+    background-color: #F56600;
+    height: 30px;
+    margin: 30px;
+
+    
+}
+
+#image{
+    background-image: url(/Settimana-2/Settimana2-Progetto/assets/images/bg-image.png);
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 35px;
+    text-align: center;
+    color: white;
+    
+}
+
+.foto{
+    display: inline-block;
+    height: 27rem;
+    width: 20rem;
+    border-radius: 13%;
+    padding: 17px;
+    filter: drop-shadow(2px 2px 2px grey);
+    
+}
+
+#container{
+    margin: 30px;
+    padding: 5px;
+    background-color: #FFFFFF;
+}
+
+.immagini{
+    padding-left:30px;
+    padding-right: 30px;
+    width: 96%;
+}
+
+.text{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.shop{
+    color: #558C99;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+#firstfooter{
+    background-color: #364759;
+    height: 40px;
+
+    
+}
+
+#secondfooter{
+    background-color: #222F3F;
+    padding: 45px;
+}
+
+#footerlogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    
+
+}
+
+#toptext{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#toptext2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+
+#first-p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 0.9em;
+}
+
+
+#second-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 25px;
+    margin-bottom: 0;
+}
+
+#last-p{
+    text-align: center;
+    text-decoration: underline white;
+    padding-top: 10px;
+    font-size: 1em;
+}
